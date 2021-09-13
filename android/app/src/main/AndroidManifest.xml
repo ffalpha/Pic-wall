@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.picwall">
+    package="com.appmadesimple.picwall">
    <application
         android:label="picwall"
         android:icon="@mipmap/ic_launcher">

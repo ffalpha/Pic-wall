@@ -1,4 +1,4 @@
-package com.example.picwall;
+package com.appmadesimple.picwall;
 
 import io.flutter.embedding.android.FlutterActivity;
 
